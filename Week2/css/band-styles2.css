@@ -1,10 +1,27 @@
 * {
-  background-color: #0099ff;
   font-family: georgia, serif;
   font-style: normal;
 }
-div.main-article {
+h1 {
+  text-align: center;
+}
+h2 {
+  text-align: center;
+}
+div.columns {
     -webkit-columns: 100px 3;
     -moz-columns: 100px 3;
     columns: 100px 3;
+}
+.sidebar {
+  width: 175px;
+  float: right;
+  background-color: pink;
+}
+img.medium {
+  width: 500px;
+  float: right;
+}
+head.class {
+  float: center;
 }
