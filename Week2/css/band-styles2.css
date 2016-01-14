@@ -3,3 +3,8 @@
   font-family: georgia, serif;
   font-style: normal;
 }
+div.main-article {
+    -webkit-columns: 100px 3;
+    -moz-columns: 100px 3;
+    columns: 100px 3;
+}
