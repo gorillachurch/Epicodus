@@ -6,3 +6,8 @@ h1 {
 h2 {
   text-align: center;
 }
+.sidebar {
+  width: 175px;
+  float: right;
+  background-color: blue;
+}

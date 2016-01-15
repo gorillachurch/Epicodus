@@ -8,20 +8,19 @@ h1 {
 h2 {
   text-align: center;
 }
-div.columns {
-    -webkit-columns: 100px 3;
-    -moz-columns: 100px 3;
-    columns: 100px 3;
-}
 .sidebar {
-  width: 175px;
+  width: 200px;
   float: right;
   background-color: pink;
 }
 img.medium {
-  width: 500px;
+  width: 450px;
   float: right;
 }
 head.class {
   float: center;
+}
+.column {
+  width: 300px;
+  float: left;
 }
