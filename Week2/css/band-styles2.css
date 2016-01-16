@@ -10,17 +10,19 @@ h2 {
 }
 .sidebar {
   width: 200px;
-  float: right;
+  float: center;
+  padding: 10px;
   background-color: pink;
+  margin: 10px
 }
 img.medium {
   width: 450px;
-  float: right;
+  float: center;
 }
 head.class {
   float: center;
 }
 .column {
   width: 300px;
-  float: left;
+  float: center;
 }
