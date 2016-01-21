@@ -1,0 +1,26 @@
+img {
+  width: 400px;
+  float: left;
+}
+
+p {width: 400px;
+  font-style: italic;
+  font-family: fantasy;
+}
+
+.clear { clear:both; }
+
+div{
+    -webkit-column-count: 3; /* Chrome, Safari, Opera */
+    -moz-column-count: 3; /* Firefox */
+    column-count: 3;
+}
+h2 {color: #ffff99;
+margin-left: 30%}
+h1 {text-align: center;
+margin-bottom:50px;
+font-weight: 800;
+font-family: sans-serif;
+}
+body { background-color: #6dc066
+}
